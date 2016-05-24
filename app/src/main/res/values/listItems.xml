@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listItems">
+        <item name="item1">Photo Search</item>
+        <item name="item2">Location Base Search</item>
+        <item name="item3">Wish List</item>
+        <item name="item5">Recent Searches</item>
+        <item name="item6">Balhh</item>
+
+    </string-array>
+</resources>
